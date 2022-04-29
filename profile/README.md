@@ -1,12 +1,22 @@
-## Hi there 👋
 
-<!--
+# Dornhian MMORPG
 
-**Here are some ideas to get you started:**
+A new side of the story you have yet to discover.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## FAQ
+
+#### What's the ip? How can I connect..
+
+The server is still a work in progress
+so no ip is currently available for you to connect to.
+
+#### How to contact us? Can I become staff...
+
+Send us a mail at pro.dornihanserver@gmail.com
+or simply join our discord.
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dornhian)
+
