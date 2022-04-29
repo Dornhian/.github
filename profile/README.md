@@ -1,9 +1,3 @@
-
-# Dornhian MMORPG
-
-A new side of the story you have yet to discover.
-
-
 ## FAQ
 
 #### What's the ip? How can I connect..
